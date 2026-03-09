@@ -71,7 +71,7 @@ The data covers the period (2012–2018).
 
 ## 📷 Dashboard Preview
 
-(Add screenshots of your dashboard pages here)
+https://github.com/ayushchandel23-oss/Indian-Municipal-Finance-Project/blob/main/Indian%20Municipal%20Finance%20Project%20SS.png
 
 
 ## 🎯 Skills Demonstrated
